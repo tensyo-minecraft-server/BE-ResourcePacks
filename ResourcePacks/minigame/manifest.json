@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Tensyo Server ResourcePack (minigame)",
+        "description": "このリソースパックは他の用途に使用しないでください。\nDo not use this resource pack for any other purpose.",
+        "uuid": "5981751e-f2b3-4f8f-ae5d-b371383bdc66",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 51]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "81c4f46a-308b-4457-83bf-0d093e9ffccd",
+            "version": [1, 0, 0]
+        }
+    ]
+}

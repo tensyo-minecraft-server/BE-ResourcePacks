@@ -1,0 +1,135 @@
+{
+    "format_version": 1,
+    "items": {
+        "minecraft:netherite_sword": [
+            {
+                "name": "gemnite_sword",
+                "allow_offhand": true,
+                "icon": "gemnite_sword",
+                "custom_model_data": 5
+            },
+            {
+                "name": "gemenite_sword",
+                "allow_offhand": true,
+                "icon": "gemenite_sword",
+                "custom_model_data": 6
+            },
+            {
+                "name": "jouenite_sword",
+                "allow_offhand": true,
+                "icon": "jouenite_sword",
+                "custom_model_data": 7
+            },
+            {
+                "name": "darknite_sword",
+                "allow_offhand": true,
+                "icon": "darknite_sword",
+                "custom_model_data": 8
+            }
+        ],
+        "minecraft:netherite_pickaxe": [
+            {
+                "name": "gemnite_pickaxe",
+                "allow_offhand": true,
+                "icon": "gemnite_pickaxe",
+                "custom_model_data": 1
+            },
+            {
+                "name": "gemenite_pickaxe",
+                "allow_offhand": true,
+                "icon": "gemenite_pickaxe",
+                "custom_model_data": 2
+            },
+            {
+                "name": "jouenite_pickaxe",
+                "allow_offhand": true,
+                "icon": "jouenite_pickaxe",
+                "custom_model_data": 3
+            },
+            {
+                "name": "darknite_pickaxe",
+                "allow_offhand": true,
+                "icon": "darknite_pickaxe",
+                "custom_model_data": 4
+            }
+        ],
+        "minecraft:netherite_shovel": [
+            {
+                "name": "gemnite_shovel",
+                "allow_offhand": true,
+                "icon": "gemnite_shovel",
+                "custom_model_data": 1
+            },
+            {
+                "name": "gemenite_shovel",
+                "allow_offhand": true,
+                "icon": "gemenite_shovel",
+                "custom_model_data": 2
+            },
+            {
+                "name": "jouenite_shovel",
+                "allow_offhand": true,
+                "icon": "jouenite_shovel",
+                "custom_model_data": 3
+            },
+            {
+                "name": "darknite_shovel",
+                "allow_offhand": true,
+                "icon": "darknite_shovel",
+                "custom_model_data": 4
+            }
+        ],
+        "minecraft:netherite_axe": [
+            {
+                "name": "gemnite_axe",
+                "allow_offhand": true,
+                "icon": "gemnite_axe",
+                "custom_model_data": 1
+            },
+            {
+                "name": "gemenite_axe",
+                "allow_offhand": true,
+                "icon": "gemenite_axe",
+                "custom_model_data": 2
+            },
+            {
+                "name": "jouenite_axe",
+                "allow_offhand": true,
+                "icon": "jouenite_axe",
+                "custom_model_data": 3
+            },
+            {
+                "name": "darknite_axe",
+                "allow_offhand": true,
+                "icon": "darknite_axe",
+                "custom_model_data": 4
+            }
+        ],
+        "minecraft:netherite_hoe": [
+            {
+                "name": "gemnite_hoe",
+                "allow_offhand": true,
+                "icon": "gemnite_hoe",
+                "custom_model_data": 1
+            },
+            {
+                "name": "gemenite_hoe",
+                "allow_offhand": true,
+                "icon": "gemenite_hoe",
+                "custom_model_data": 2
+            },
+            {
+                "name": "jouenite_hoe",
+                "allow_offhand": true,
+                "icon": "jouenite_hoe",
+                "custom_model_data": 3
+            },
+            {
+                "name": "darknite_hoe",
+                "allow_offhand": true,
+                "icon": "darknite_hoe",
+                "custom_model_data": 4
+            }
+        ]
+    }
+}

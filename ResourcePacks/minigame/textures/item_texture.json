@@ -1,0 +1,109 @@
+{
+    "resource_pack_name": "geyser_custom",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "gemnite_sword": {
+            "textures": [
+                "textures/items/gemnite/tools/sword"
+            ]
+        },
+        "gemnite_pickaxe": {
+            "textures": [
+                "textures/items/gemnite/tools/pickaxe"
+            ]
+        },
+        "gemnite_shovel": {
+            "textures": [
+                "textures/items/gemnite/tools/shovel"
+            ]
+        },
+        "gemnite_axe": {
+            "textures": [
+                "textures/items/gemnite/tools/axe"
+            ]
+        },
+        "gemnite_hoe": {
+            "textures": [
+                "textures/items/gemnite/tools/hoe"
+            ]
+        },
+
+        "gemenite_sword": {
+            "textures": [
+                "textures/items/gemenite/tools/sword"
+            ]
+        },
+        "gemenite_pickaxe": {
+            "textures": [
+                "textures/items/gemenite/tools/pickaxe"
+            ]
+        },
+        "gemenite_shovel": {
+            "textures": [
+                "textures/items/gemenite/tools/shovel"
+            ]
+        },
+        "gemenite_axe": {
+            "textures": [
+                "textures/items/gemenite/tools/axe"
+            ]
+        },
+        "gemenite_hoe": {
+            "textures": [
+                "textures/items/gemenite/tools/hoe"
+            ]
+        },
+
+        "jouenite_sword": {
+            "textures": [
+                "textures/items/jouenite/tools/sword"
+            ]
+        },
+        "jouenite_pickaxe": {
+            "textures": [
+                "textures/items/jouenite/tools/pickaxe"
+            ]
+        },
+        "jouenite_shovel": {
+            "textures": [
+                "textures/items/jouenite/tools/shovel"
+            ]
+        },
+        "jouenite_axe": {
+            "textures": [
+                "textures/items/jouenite/tools/axe"
+            ]
+        },
+        "jouenite_hoe": {
+            "textures": [
+                "textures/items/jouenite/tools/hoe"
+            ]
+        },
+
+        "darknite_sword": {
+            "textures": [
+                "textures/items/darknite/tools/sword"
+            ]
+        },
+        "darknite_pickaxe": {
+            "textures": [
+                "textures/items/darknite/tools/pickaxe"
+            ]
+        },
+        "darknite_shovel": {
+            "textures": [
+                "textures/items/darknite/tools/shovel"
+            ]
+        },
+        "darknite_axe": {
+            "textures": [
+                "textures/items/darknite/tools/axe"
+            ]
+        },
+        "darknite_hoe": {
+            "textures": [
+                "textures/items/darknite/tools/hoe"
+            ]
+        }
+    }
+}
