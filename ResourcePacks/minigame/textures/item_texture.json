@@ -129,6 +129,66 @@
             "textures": [
                 "textures/items/darknite/darknite"
             ]
+        },
+        "orange": {
+            "textures": [
+                "textures/items/other/foods/fruits/mandarin_orange"
+            ]
+        },
+        "grape": {
+            "textures": [
+                "textures/items/other/foods/fruits/grape"
+            ]
+        },
+        "wine_orange_juice": {
+            "textures": [
+                "textures/items/other/drinks/wine_orange_juice"
+            ]
+        },
+        "crude_oil": {
+            "textures": [
+                "textures/items/other/crude_oil"
+            ]
+        },
+        "exp_bottle": {
+            "textures": [
+                "textures/items/other/exp_bottle"
+            ]
+        },
+        "night_vision": {
+            "textures": [
+                "textures/items/coin/ability/night_vision"
+            ]
+        },
+        "fire_resistance": {
+            "textures": [
+                "textures/items/coin/ability/fire_resistance"
+            ]
+        },
+        "strength": {
+            "textures": [
+                "textures/items/coin/ability/strength"
+            ]
+        },
+        "haste": {
+            "textures": [
+                "textures/items/coin/ability/haste"
+            ]
+        },
+        "magic_wand": {
+            "textures": [
+                "textures/items/other/magic_wand"
+            ]
+        },
+        "cup_orange_juice": {
+            "textures": [
+                "textures/items/other/drinks/cup_orange_juice"
+            ]
+        },
+        "omoti": {
+            "textures": [
+                "textures/items/other/foods/omoti"
+            ]
         }
     }
 }

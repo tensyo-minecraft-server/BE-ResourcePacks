@@ -162,6 +162,86 @@
                 "icon": "trophy",
                 "custom_model_data": 10
             }
+        ],
+        "minecraft:beetroot": [
+            {
+                "name": "orange",
+                "allow_offhand": true,
+                "icon": "orange",
+                "custom_model_data": 1
+            },    
+            {
+                "name": "wine_orange_juice",
+                "allow_offhand": true,
+                "icon": "wine_orange_juice",
+                "custom_model_data": 2
+            },
+            {
+                "name": "trophy",
+                "allow_offhand": true,
+                "icon": "trophy",
+                "custom_model_data": 3
+            }
+        ],
+        "minecraft:black_dye": [
+            {
+                "name": "crude_oil",
+                "allow_offhand": true,
+                "icon": "crude_oil",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:carrot_on_a_stick": [
+            {
+                "name": "exp_bottle",
+                "allow_offhand": true,
+                "icon": "exp_bottle",
+                "custom_model_data": 1
+            },
+            {
+                "name": "night_vision",
+                "allow_offhand": true,
+                "icon": "night_vision",
+                "custom_model_data": 2
+            },
+            {
+                "name": "fire_resistance",
+                "allow_offhand": true,
+                "icon": "fire_resistance",
+                "custom_model_data": 3
+            },
+            {
+                "name": "strength",
+                "allow_offhand": true,
+                "icon": "strength",
+                "custom_model_data": 4
+            },
+            {
+                "name": "haste",
+                "allow_offhand": true,
+                "icon": "haste",
+                "custom_model_data": 5
+            },
+            {
+                "name": "magic_wand",
+                "allow_offhand": true,
+                "icon": "magic_wand",
+                "custom_model_data": 6
+            },
+            {
+                "name": "cup_orange_juice",
+                "allow_offhand": true,
+                "icon": "cup_orange_juice",
+                "custom_model_data": 7
+            }
+        ],
+        "minecraft:cooked_beef": [
+            {
+                "name": "omoti",
+                "allow_offhand": true,
+                "icon": "omoti",
+                "custom_model_data": 1
+            }
         ]
     }
 }
