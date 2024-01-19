@@ -133,18 +133,6 @@
         ],
         "minecraft:emerald": [
             {
-                "name": "trophy",
-                "allow_offhand": true,
-                "icon": "trophy",
-                "custom_model_data": 10
-            },
-            {
-                "name": "darknite",
-                "allow_offhand": true,
-                "icon": "darknite",
-                "custom_model_data": 4
-            },
-            {
                 "name": "gemnite",
                 "allow_offhand": true,
                 "icon": "gemnite",
@@ -161,6 +149,18 @@
                 "allow_offhand": true,
                 "icon": "jouenite",
                 "custom_model_data": 3
+            },
+            {
+                "name": "darknite",
+                "allow_offhand": true,
+                "icon": "darknite",
+                "custom_model_data": 4
+            },
+            {
+                "name": "trophy",
+                "allow_offhand": true,
+                "icon": "trophy",
+                "custom_model_data": 10
             }
         ]
     }
