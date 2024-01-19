@@ -2,7 +2,7 @@ name: Generate Resource Packs Release
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build_and_release:
@@ -16,13 +16,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Find a directory that serves as a resource pack
-        run: find . -mindepth 2 -maxdepth 2 -type f -iname pack.mcmeta | parallel echo {//} > pack.txt
+      - name: Find manifest or minigame files and create ZIP archives
+        run: |
+          find . -mindepth 2 -maxdepth 2 -type f \( -name 'manifest.json' -o -name 'minigame.json' \) | while read -r file; do
+            directory=$(dirname "$file")
+            cd "$directory" || exit
+            zip -r "$PWD/$(basename "$directory").zip" .
+            cd - || exit
+          done
+        shell: bash
 
-      - name: Creating resource packs from found directories
-        run: parallel -a pack.txt --wd {} zip -r "$PWD"/{/}.zip .
-
-      - name: View the resource pack you created.
+      - name: View the resource packs you created
         run: find . -maxdepth 1 -type f -name "*.zip"
 
       - uses: softprops/action-gh-release@v1
