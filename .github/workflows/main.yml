@@ -17,13 +17,13 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Find a directory that serves as a resource pack
-        run: find . -mindepth 2 -maxdepth 2 -type f -iname manifest.json | parallel echo {//} > manifest.txt
+        run: find . -mindepth 3 -maxdepth 3 -type f -iname manifest.json | parallel echo {//} > manifest.txt
 
       - name: Creating resource packs from found directories
         run: parallel -a manifest.txt --wd {} zip -r "$PWD"/{/}.zip .
 
       - name: View the resource pack you created.
-        run: find . -maxdepth 1 -type f -name "*.zip"
+        run: find . -maxdepth 2 -type f -name "*.zip"
 
       - uses: softprops/action-gh-release@v1
         with:
