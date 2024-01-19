@@ -18,8 +18,7 @@ jobs:
 
       - name: Find manifest or minigame files and create ZIP archives
         run: |
-          find . -mindepth 2 -maxdepth 2 -type f -name 'manifest.json' -o -name 'minigame.json' > files.txt
-          cat files.txt | while read -r file; do
+          find . -mindepth 2 -maxdepth 2 -type f -name 'manifest.json' -o -name 'minigame.json' | while read -r file; do
             directory=$(dirname "$file")
             cd "$directory" || exit
             zip -r "$PWD/$(basename "$directory").zip" .
