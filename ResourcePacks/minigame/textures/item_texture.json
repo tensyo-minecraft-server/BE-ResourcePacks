@@ -104,6 +104,31 @@
             "textures": [
                 "textures/items/darknite/tools/hoe"
             ]
+        },
+        "trophy": {
+            "textures": [
+                "textures/items/other/trophy"
+            ]
+        },
+        "gemnite": {
+            "textures": [
+                "textures/items/gemnite/gemnite"
+            ]
+        },
+        "gemenite": {
+            "textures": [
+                "textures/items/gemenite/gemenite"
+            ]
+        },
+        "jouenite": {
+            "textures": [
+                "textures/items/jouenite/jouenite"
+            ]
+        },
+        "darknite": {
+            "textures": [
+                "textures/items/darknite/darknite"
+            ]
         }
     }
 }

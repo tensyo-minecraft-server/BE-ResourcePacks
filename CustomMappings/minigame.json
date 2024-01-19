@@ -130,6 +130,38 @@
                 "icon": "darknite_hoe",
                 "custom_model_data": 4
             }
+        ],
+        "minecraft:emerald": [
+            {
+                "name": "trophy",
+                "allow_offhand": true,
+                "icon": "trophy",
+                "custom_model_data": 10
+            },
+            {
+                "name": "darknite",
+                "allow_offhand": true,
+                "icon": "darknite",
+                "custom_model_data": 4
+            },
+            {
+                "name": "gemnite",
+                "allow_offhand": true,
+                "icon": "gemnite",
+                "custom_model_data": 1
+            },
+            {
+                "name": "gemenite",
+                "allow_offhand": true,
+                "icon": "gemenite",
+                "custom_model_data": 2
+            },
+            {
+                "name": "jouenite",
+                "allow_offhand": true,
+                "icon": "jouenite",
+                "custom_model_data": 3
+            }
         ]
     }
 }
