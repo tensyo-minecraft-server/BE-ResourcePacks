@@ -16,13 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Find manifest or minigame files and create ZIP archives
+      - name: Create ZIP archives from directories
         run: |
-          find . -mindepth 2 -maxdepth 2 -type f -name 'manifest.json' -o -name 'minigame.json' | while read -r file; do
-            directory=$(dirname "$file")
-            cd "$directory" || exit
-            zip -r "$PWD/$(basename "$directory").zip" .
-            cd - || exit
+          find . -mindepth 2 -maxdepth 2 -type d | while read -r directory; do
+            zip -r "$directory.zip" "$directory"
           done
         shell: bash
 
