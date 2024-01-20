@@ -169,18 +169,12 @@
                 "allow_offhand": true,
                 "icon": "orange",
                 "custom_model_data": 1
-            },    
+            },
             {
                 "name": "wine_orange_juice",
                 "allow_offhand": true,
                 "icon": "wine_orange_juice",
                 "custom_model_data": 2
-            },
-            {
-                "name": "trophy",
-                "allow_offhand": true,
-                "icon": "trophy",
-                "custom_model_data": 3
             }
         ],
         "minecraft:black_dye": [
