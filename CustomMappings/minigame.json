@@ -236,6 +236,124 @@
                 "icon": "omoti",
                 "custom_model_data": 1
             }
+        ],
+        "minecraft:heart_of_the_sea": [
+            {
+                "name": "vote",
+                "allow_offhand": true,
+                "icon": "vote",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:light_gray_dye": [
+            {
+                "name": "exp_bottle",
+                "allow_offhand": true,
+                "icon": "exp_bottle",
+                "custom_model_data": 1
+            },
+            {
+                "name": "exp_bottle",
+                "allow_offhand": true,
+                "icon": "exp_bottle",
+                "custom_model_data": 4
+            },
+            {
+                "name": "diamond_ingot",
+                "allow_offhand": true,
+                "icon": "diamond_ingot",
+                "custom_model_data": 7
+            },
+            {
+                "name": "metal_ingot",
+                "allow_offhand": true,
+                "icon": "metal_ingot",
+                "custom_model_data": 8
+            },
+            {
+                "name": "fising",
+                "allow_offhand": true,
+                "icon": "fising",
+                "custom_model_data": 10
+            }
+        ],
+        "minecraft:orange_dye": [
+            {
+                "name": "coal",
+                "allow_offhand": true,
+                "icon": "coal",
+                "custom_model_data": 8
+            },
+            {
+                "name": "iron",
+                "allow_offhand": true,
+                "icon": "iron",
+                "custom_model_data": 9
+            },
+            {
+                "name": "gold",
+                "allow_offhand": true,
+                "icon": "gold",
+                "custom_model_data": 10
+            },
+            {
+                "name": "emerald",
+                "allow_offhand": true,
+                "icon": "emerald",
+                "custom_model_data": 11
+            },
+            {
+                "name": "diamond",
+                "allow_offhand": true,
+                "icon": "diamond",
+                "custom_model_data": 12
+            }
+        ],
+        "minecraft:salmon": [
+            {
+                "name": "outstanding_fish",
+                "allow_offhand": true,
+                "icon": "outstanding_fish",
+                "custom_model_data": 1
+            },
+            {
+                "name": "grunt_fish",
+                "allow_offhand": true,
+                "icon": "grunt_fish",
+                "custom_model_data": 2
+            },
+            {
+                "name": "japanese_spanish_mackerel_fish",
+                "allow_offhand": true,
+                "icon": "japanese_spanish_mackerel_fish",
+                "custom_model_data": 3
+            },
+            {
+                "name": "glitter_eel_fish",
+                "allow_offhand": true,
+                "icon": "glitter_eel_fish",
+                "custom_model_data": 4
+            }
+        ],
+        "minecraft:leather_horse_armor": [
+            {
+                "name": "trophy100",
+                "allow_offhand": true,
+                "icon": "trophy100",
+                "custom_model_data": 1
+            },
+            {
+                "name": "trophy500",
+                "allow_offhand": true,
+                "icon": "trophy500",
+                "custom_model_data": 2
+            },
+            {
+                "name": "trophy1000",
+                "allow_offhand": true,
+                "icon": "trophy1000",
+                "custom_model_data": 3
+            }
         ]
     }
 }

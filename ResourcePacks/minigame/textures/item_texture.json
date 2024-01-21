@@ -189,6 +189,86 @@
             "textures": [
                 "textures/items/other/foods/omoti"
             ]
+        },
+        "vote": {
+            "textures": [
+                "textures/items/coin/vote"
+            ]
+        },
+        "metal_ingot": {
+            "textures": [
+                "textures/items/special_ore/metal_ingot"
+            ]
+        },
+        "diamond_ingot": {
+            "textures": [
+                "textures/items/special_ore/diamond_ingot"
+            ]
+        },
+        "fising": {
+            "textures": [
+                "textures/items/coin/fising"
+            ]
+        },
+        "coal": {
+            "textures": [
+                "textures/items/coin/ore/coal"
+            ]
+        },
+        "iron": {
+            "textures": [
+                "textures/items/coin/ore/iron"
+            ]
+        },
+        "gold": {
+            "textures": [
+                "textures/items/coin/ore/gold"
+            ]
+        },
+        "emerald": {
+            "textures": [
+                "textures/items/coin/ore/emerald"
+            ]
+        },
+        "diamond": {
+            "textures": [
+                "textures/items/coin/ore/diamond"
+            ]
+        },
+        "outstanding_fish": {
+            "textures": [
+                "textures/items/fishing/fish/outstanding_fish"
+            ]
+        },
+        "grunt_fish": {
+            "textures": [
+                "textures/items/fishing/fish/grunt_fish"
+            ]
+        },
+        "japanese_spanish_mackerel_fish": {
+            "textures": [
+                "textures/items/fishing/fish/japanese_spanish_mackerel_fish"
+            ]
+        },
+        "glitter_eel_fish": {
+            "textures": [
+                "textures/items/fishing/fish/glitter_eel_fish"
+            ]
+        },
+        "trophy100": {
+            "textures": [
+                "textures/items/trophy/trophy100"
+            ]
+        },
+        "trophy500": {
+            "textures": [
+                "textures/items/trophy/trophy500"
+            ]
+        },
+        "trophy1000": {
+            "textures": [
+                "textures/items/trophy/trophy1000"
+            ]
         }
     }
 }
