@@ -254,21 +254,6 @@
             "textures": [
                 "textures/items/fishing/fish/glitter_eel_fish"
             ]
-        },
-        "trophy100": {
-            "textures": [
-                "textures/items/trophy/trophy100"
-            ]
-        },
-        "trophy500": {
-            "textures": [
-                "textures/items/trophy/trophy500"
-            ]
-        },
-        "trophy1000": {
-            "textures": [
-                "textures/items/trophy/trophy1000"
-            ]
         }
     }
 }

@@ -337,9 +337,9 @@
         ],
         "minecraft:leather_horse_armor": [
             {
-                "name": "trophy100",
+                "name": "trophy:trophy100",
                 "allow_offhand": true,
-                "icon": "trophy100",
+                "icon": "trophy:trophy100",
                 "custom_model_data": 1
             },
             {
