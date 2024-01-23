@@ -212,7 +212,7 @@
         },
         "coal": {
             "textures": [
-                "textures/items/coin/ore/coal"
+                "textures/items/coin/ore/coal-1"
             ]
         },
         "iron": {
@@ -227,12 +227,12 @@
         },
         "emerald": {
             "textures": [
-                "textures/items/coin/ore/emerald"
+                "textures/items/coin/ore/emerald-1"
             ]
         },
         "diamond": {
             "textures": [
-                "textures/items/coin/ore/diamond"
+                "textures/items/coin/ore/diamond-1"
             ]
         },
         "outstanding_fish": {
