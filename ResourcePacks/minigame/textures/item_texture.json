@@ -210,7 +210,7 @@
                 "textures/items/coin/fising"
             ]
         },
-        "coal": {
+        "coal-1": {
             "textures": [
                 "textures/items/coin/ore/coal-1"
             ]
@@ -225,12 +225,12 @@
                 "textures/items/coin/ore/gold"
             ]
         },
-        "emerald": {
+        "emerald-1": {
             "textures": [
                 "textures/items/coin/ore/emerald-1"
             ]
         },
-        "diamond": {
+        "diamond-1": {
             "textures": [
                 "textures/items/coin/ore/diamond-1"
             ]
@@ -253,6 +253,11 @@
         "glitter_eel_fish": {
             "textures": [
                 "textures/items/fishing/fish/glitter_eel_fish"
+            ]
+        },
+        "trophy100": {
+            "textures": [
+                "attachables/trophy100"
             ]
         }
     }

@@ -279,9 +279,9 @@
         ],
         "minecraft:orange_dye": [
             {
-                "name": "coal",
+                "name": "coal-1",
                 "allow_offhand": true,
-                "icon": "coal",
+                "icon": "coal-1",
                 "custom_model_data": 8
             },
             {
@@ -297,15 +297,15 @@
                 "custom_model_data": 10
             },
             {
-                "name": "emerald",
+                "name": "emerald-1",
                 "allow_offhand": true,
-                "icon": "emerald",
+                "icon": "emerald-1",
                 "custom_model_data": 11
             },
             {
-                "name": "diamond",
+                "name": "diamond-1",
                 "allow_offhand": true,
-                "icon": "diamond",
+                "icon": "diamond-1",
                 "custom_model_data": 12
             }
         ],
@@ -337,9 +337,9 @@
         ],
         "minecraft:leather_horse_armor": [
             {
-                "name": "trophy:trophy100",
+                "name": "trophy100",
                 "allow_offhand": true,
-                "icon": "trophy:trophy100",
+                "icon": "trophy100",
                 "custom_model_data": 1
             },
             {
