@@ -259,6 +259,31 @@
             "textures": [
                 "attachables/trophy100"
             ]
+        },
+        "powder_red": {
+            "textures": [
+                "textures/items/powder/red"
+            ]
+        },
+        "powder_blue": {
+            "textures": [
+                "textures/items/powder/blue"
+            ]
+        },
+        "powder_green": {
+            "textures": [
+                "textures/items/powder/green"
+            ]
+        },
+        "powder_yellow": {
+            "textures": [
+                "textures/items/powder/yellow"
+            ]
+        },
+        "salt": {
+            "textures": [
+                "textures/items/other/foods/seasonings/salt"
+            ]
         }
     }
 }

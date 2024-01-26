@@ -354,6 +354,38 @@
                 "icon": "trophy1000",
                 "custom_model_data": 3
             }
+        ],
+        "minecraft:sugar": [
+            {
+                "name": "powder_red",
+                "allow_offhand": true,
+                "icon": "powder_red",
+                "custom_model_data": 1
+            },
+            {
+                "name": "powder_blue",
+                "allow_offhand": true,
+                "icon": "powder_blue",
+                "custom_model_data": 2
+            },
+            {
+                "name": "powder_green",
+                "allow_offhand": true,
+                "icon": "powder_green",
+                "custom_model_data": 3
+            },
+            {
+                "name": "powder_yellow",
+                "allow_offhand": true,
+                "icon": "powder_yellow",
+                "custom_model_data": 4
+            },
+            {
+                "name": "salt",
+                "allow_offhand": true,
+                "icon": "salt",
+                "custom_model_data": 5
+            }
         ]
     }
 }
