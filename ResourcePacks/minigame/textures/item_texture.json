@@ -304,6 +304,26 @@
             "textures": [
                 "textures/items/other/hagaki"
             ]
+        },
+        "back": {
+            "textures": [
+                "textures/items/pves/back"
+            ]
+        },
+        "kougeki": {
+            "textures": [
+                "textures/items/pves/kougeki"
+            ]
+        },
+        "bougyo": {
+            "textures": [
+                "textures/items/pves/bougyo"
+            ]
+        },
+        "score": {
+            "textures": [
+                "textures/items/pves/score"
+            ]
         }
     }
 }

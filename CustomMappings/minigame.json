@@ -418,6 +418,32 @@
                 "icon": "hagaki",
                 "custom_model_data": 1
             }
+        ],
+        "minecraft:lime_dye": [
+            {
+                "name": "kougeki",
+                "allow_offhand": true,
+                "icon": "kougeki",
+                "custom_model_data": 1
+            },
+            {
+                "name": "bougyo",
+                "allow_offhand": true,
+                "icon": "bougyo",
+                "custom_model_data": 2
+            },
+            {
+                "name": "score",
+                "allow_offhand": true,
+                "icon": "score",
+                "custom_model_data": 3
+            },
+            {
+                "name": "back",
+                "allow_offhand": true,
+                "icon": "back",
+                "custom_model_data": 7
+            }
         ]
     }
 }
