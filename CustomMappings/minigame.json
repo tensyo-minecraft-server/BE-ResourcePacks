@@ -386,6 +386,38 @@
                 "icon": "salt",
                 "custom_model_data": 5
             }
+        ],
+        "minecraft:cooked_salmon": [
+            {
+                "name": "susi",
+                "allow_offhand": true,
+                "icon": "susi",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:honey_bottle": [
+            {
+                "name": "kobin",
+                "allow_offhand": true,
+                "icon": "kobin",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:iron_sword": [
+            {
+                "name": "japanese_sword",
+                "allow_offhand": true,
+                "icon": "japanese_sword",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:paper": [
+            {
+                "name": "hagaki",
+                "allow_offhand": true,
+                "icon": "hagaki",
+                "custom_model_data": 1
+            }
         ]
     }
 }

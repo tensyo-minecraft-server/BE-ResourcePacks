@@ -284,6 +284,26 @@
             "textures": [
                 "textures/items/other/foods/seasonings/salt"
             ]
+        },
+        "susi": {
+            "textures": [
+                "textures/items/other/foods/sushi"
+            ]
+        },
+        "kobin": {
+            "textures": [
+                "textures/items/other/foods/kobin"
+            ]
+        },
+        "japanese_sword": {
+            "textures": [
+                "textures/items/weapons/sword/japanese_sword"
+            ]
+        },
+        "hagaki": {
+            "textures": [
+                "textures/items/other/hagaki"
+            ]
         }
     }
 }
