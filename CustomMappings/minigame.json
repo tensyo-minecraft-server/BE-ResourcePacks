@@ -433,9 +433,9 @@
         ],
         "minecraft:lime_dye": [
             {
-                "name": "kougeki",
+                "name": "kougeki1",
                 "allow_offhand": true,
-                "icon": "kougeki",
+                "icon": "kougeki1",
                 "custom_model_data": 1
             },
             {
