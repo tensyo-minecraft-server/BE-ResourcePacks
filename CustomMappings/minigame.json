@@ -235,6 +235,12 @@
                 "allow_offhand": true,
                 "icon": "omoti",
                 "custom_model_data": 1
+            },
+            {
+                "name": "niku2",
+                "allow_offhand": true,
+                "icon": "niku2",
+                "custom_model_data": 1
             }
         ],
         "minecraft:heart_of_the_sea": [
@@ -243,6 +249,12 @@
                 "allow_offhand": true,
                 "icon": "vote",
                 "custom_model_data": 1
+            },
+            {
+                "name": "kokoro",
+                "allow_offhand": true,
+                "icon": "kokoro",
+                "custom_model_data": 2
             }
         ],
         "minecraft:light_gray_dye": [
@@ -443,6 +455,44 @@
                 "allow_offhand": true,
                 "icon": "back",
                 "custom_model_data": 7
+            }
+        ],
+        "minecraft:rabbit_stew": [
+            {
+                "name": "ramen1",
+                "allow_offhand": true,
+                "icon": "ramen1",
+                "custom_model_data": 1
+            },
+            {
+                "name": "udon1",
+                "allow_offhand": true,
+                "icon": "udon1",
+                "custom_model_data": 2
+            }
+        ],
+        "minecraft:golden_carrot": [
+            {
+                "name": "takoyaki",
+                "allow_offhand": true,
+                "icon": "takoyaki",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:bread": [
+            {
+                "name": "niku1",
+                "allow_offhand": true,
+                "icon": "niku1",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:gold_nugget": [
+            {
+                "name": "sakucoin",
+                "allow_offhand": true,
+                "icon": "sakucoin",
+                "custom_model_data": 1
             }
         ]
     }

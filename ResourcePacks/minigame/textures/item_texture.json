@@ -324,6 +324,41 @@
             "textures": [
                 "textures/items/pves/score"
             ]
+        },
+        "kokoro": {
+            "textures": [
+                "textures/items/other/kokoro"
+            ]
+        },
+        "ramen1": {
+            "textures": [
+                "textures/items/other/foods/ramen1"
+            ]
+        },
+        "udon1": {
+            "textures": [
+                "textures/items/other/foods/udon1"
+            ]
+        },
+        "takoyaki": {
+            "textures": [
+                "textures/items/other/foods/takoyaki"
+            ]
+        },
+        "niku1": {
+            "textures": [
+                "textures/items/other/foods/niku1"
+            ]
+        },
+        "niku2": {
+            "textures": [
+                "textures/items/other/foods/niku2"
+            ]
+        },
+        "sakucoin": {
+            "textures": [
+                "textures/items/coin/sakucoin"
+            ]
         }
     }
 }
