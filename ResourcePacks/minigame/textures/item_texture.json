@@ -359,6 +359,11 @@
             "textures": [
                 "textures/items/coin/sakucoin"
             ]
+        },
+        "smart_phone": {
+            "textures": [
+                "textures/items/other/smart_phone"
+            ]
         }
     }
 }

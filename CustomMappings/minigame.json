@@ -429,6 +429,12 @@
                 "allow_offhand": true,
                 "icon": "hagaki",
                 "custom_model_data": 1
+            },
+            {
+                "name": "smart_phone",
+                "allow_offhand": true,
+                "icon": "smart_phone",
+                "custom_model_data": 2
             }
         ],
         "minecraft:lime_dye": [
