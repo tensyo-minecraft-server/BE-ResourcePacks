@@ -14,9 +14,6 @@
         "geometry": {
           "default": "geometry.trophy100"
         },
-        "animations": {
-          "test_tool_wield": "animation.trophy100.wield"
-        },
         "render_controllers": ["controller.render.item_default"]
       }
     }
