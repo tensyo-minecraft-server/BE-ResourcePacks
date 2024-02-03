@@ -364,6 +364,11 @@
             "textures": [
                 "textures/items/other/smart_phone"
             ]
+        },
+        "normal_ammos": {
+            "textures": [
+                "textures/items/weapons/ammos/normal_ammos"
+            ]
         }
     }
 }

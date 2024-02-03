@@ -500,6 +500,14 @@
                 "icon": "sakucoin",
                 "custom_model_data": 1
             }
+        ],
+        "minecraft:fire_charge": [
+            {
+                "name": "normal_ammos",
+                "allow_offhand": true,
+                "icon": "normal_ammos",
+                "custom_model_data": 1
+            }
         ]
     }
 }
