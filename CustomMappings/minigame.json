@@ -155,6 +155,13 @@
                 "allow_offhand": true,
                 "icon": "darknite",
                 "custom_model_data": 4
+            }
+            ,
+            {
+                "name": "hard_ore",
+                "allow_offhand": true,
+                "icon": "hard_ore",
+                "custom_model_data": 5
             },
             {
                 "name": "trophy",

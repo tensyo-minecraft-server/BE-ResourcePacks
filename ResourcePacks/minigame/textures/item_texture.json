@@ -369,6 +369,11 @@
             "textures": [
                 "textures/items/weapons/ammos/normal_ammos"
             ]
+        },
+        "hard_ore": {
+            "textures": [
+                "textures/items/ore/hard_ore"
+            ]
         }
     }
 }
