@@ -1,0 +1,13 @@
+{
+    "format_version" : "1.20.20",
+    "sound_definitions" : {
+"custom.athletic.0" : {
+   "category" : "ambient",
+   "max_distance" : null,
+   "min_distance" : null,
+   "sounds" : [
+      "sounds/bgm/mood1"
+   ]
+       }
+    }
+}
