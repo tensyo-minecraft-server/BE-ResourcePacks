@@ -8,6 +8,46 @@
    "sounds" : [
       "sounds/bgm/athletic"
    ]
-       }
+       },
+"custom.athletic.0" : {
+    "category" : "ambient",
+    "max_distance" : null,
+    "min_distance" : null,
+    "sounds" : [
+       "sounds/bgm/athletic"
+        ]
+            },
+            "custom.athletic.0" : {
+                "category" : "ambient",
+                "max_distance" : null,
+                "min_distance" : null,
+                "sounds" : [
+                   "sounds/bgm/athletic"
+                    ]
+                        },
+                        "custom.athletic.0" : {
+                            "category" : "ambient",
+                            "max_distance" : null,
+                            "min_distance" : null,
+                            "sounds" : [
+                               "sounds/bgm/athletic"
+                                ]
+                                    },
+                                    "custom.athletic.0" : {
+                                        "category" : "ambient",
+                                        "max_distance" : null,
+                                        "min_distance" : null,
+                                        "sounds" : [
+                                           "sounds/bgm/athletic"
+                                            ]
+                                                },
+"custom.bonus" : {
+    "category" : "ambient",
+    "max_distance" : null,
+    "min_distance" : null,
+    "sounds" : [
+   "sound_effects/bonus"
+                ]
+                    }            
     }
 }
