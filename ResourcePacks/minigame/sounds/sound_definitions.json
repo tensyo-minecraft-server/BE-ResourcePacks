@@ -70,7 +70,7 @@
             "max_distance": null,
             "min_distance": null,
             "sounds": [
-                "sound_effects/bonus"
+                "sounds/sound_effects/bonus"
             ]
         }
     }
