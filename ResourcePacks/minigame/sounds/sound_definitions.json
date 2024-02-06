@@ -1,53 +1,77 @@
 {
-    "format_version" : "1.20.20",
-    "sound_definitions" : {
-"custom.athletic.0" : {
-   "category" : "ambient",
-   "max_distance" : null,
-   "min_distance" : null,
-   "sounds" : [
-      "sounds/bgm/athletic"
-   ]
-       },
-"custom.athletic.0" : {
-    "category" : "ambient",
-    "max_distance" : null,
-    "min_distance" : null,
-    "sounds" : [
-       "sounds/bgm/athletic"
-        ]
-            },
-            "custom.athletic.0" : {
-                "category" : "ambient",
-                "max_distance" : null,
-                "min_distance" : null,
-                "sounds" : [
-                   "sounds/bgm/athletic"
-                    ]
-                        },
-                        "custom.athletic.0" : {
-                            "category" : "ambient",
-                            "max_distance" : null,
-                            "min_distance" : null,
-                            "sounds" : [
-                               "sounds/bgm/athletic"
-                                ]
-                                    },
-                                    "custom.athletic.0" : {
-                                        "category" : "ambient",
-                                        "max_distance" : null,
-                                        "min_distance" : null,
-                                        "sounds" : [
-                                           "sounds/bgm/athletic"
-                                            ]
-                                                },
-"custom.bonus" : {
-    "category" : "ambient",
-    "max_distance" : null,
-    "min_distance" : null,
-    "sounds" : [
-   "sound_effects/bonus"
-                ]
-                    }            
+    "format_version": "1.20.20",
+    "sound_definitions": {
+        "custom.athletic.0": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/athletic"
+            ]
+        },
+        "custom.athletic.1": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/athletic2"
+            ]
+        },
+        "custom.athletic.2": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/athletic3"
+            ]
+        },
+        "custom.music_5": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/music_5"
+            ]
+        },
+        "custom.music_9": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/music_9"
+            ]
+        },
+        "custom.music_10": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/music_10"
+            ]
+        },
+        "custom.music_11": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/music_11"
+            ]
+        },
+        "custom.worship": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/worship"
+            ]
+        },
+        "custom.bonus": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sound_effects/bonus"
+            ]
+        }
     }
 }
