@@ -72,6 +72,14 @@
             "sounds": [
                 "sounds/sound_effects/bonus"
             ]
+        },
+        "custom.error": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/error"
+            ]
         }
     }
 }
