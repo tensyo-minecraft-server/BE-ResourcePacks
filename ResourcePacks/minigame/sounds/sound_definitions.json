@@ -104,6 +104,14 @@
             "sounds": [
                 "sounds/sound_effects/open"
             ]
+        },
+        "custom.event_bgm": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/event_bgm"
+            ]
         }
     }
 }
