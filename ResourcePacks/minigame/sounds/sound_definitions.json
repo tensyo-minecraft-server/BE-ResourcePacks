@@ -80,6 +80,14 @@
             "sounds": [
                 "sounds/sound_effects/error"
             ]
+        },
+        "custom.back": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/back"
+            ]
         }
     }
 }
