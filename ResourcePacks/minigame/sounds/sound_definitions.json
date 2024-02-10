@@ -88,6 +88,22 @@
             "sounds": [
                 "sounds/sound_effects/back"
             ]
+        },
+        "custom.click": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/click"
+            ]
+        },
+        "custom.open": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/open"
+            ]
         }
     }
 }
