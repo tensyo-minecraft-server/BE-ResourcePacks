@@ -443,6 +443,13 @@
                 "icon": "smart_phone",
                 "custom_model_data": 2
             }
+            ,
+            {
+                "name": "ticket1",
+                "allow_offhand": true,
+                "icon": "ticket1",
+                "custom_model_data": 3
+            }
         ],
         "minecraft:lime_dye": [
             {

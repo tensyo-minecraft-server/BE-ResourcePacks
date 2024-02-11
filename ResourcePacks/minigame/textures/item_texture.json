@@ -374,6 +374,11 @@
             "textures": [
                 "textures/items/ore/hard_ore"
             ]
+        },
+        "ticket1": {
+            "textures": [
+                "textures/items/ticket/ticket1"
+            ]
         }
     }
 }
