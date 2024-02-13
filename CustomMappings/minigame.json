@@ -247,7 +247,25 @@
                 "name": "niku2",
                 "allow_offhand": true,
                 "icon": "niku2",
-                "custom_model_data": 1
+                "custom_model_data": 2
+            },
+            {
+                "name": "choco1",
+                "allow_offhand": true,
+                "icon": "choco1",
+                "custom_model_data": 3
+            },
+            {
+                "name": "choco2",
+                "allow_offhand": true,
+                "icon": "choco2",
+                "custom_model_data": 4
+            },
+            {
+                "name": "choco3",
+                "allow_offhand": true,
+                "icon": "choco3",
+                "custom_model_data": 5
             }
         ],
         "minecraft:heart_of_the_sea": [

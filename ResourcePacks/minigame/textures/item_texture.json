@@ -379,6 +379,21 @@
             "textures": [
                 "textures/items/ticket/ticket1"
             ]
+        },
+        "choco1": {
+            "textures": [
+                "textures/items/other/foods/choco/choco1"
+            ]
+        },
+        "choco2": {
+            "textures": [
+                "textures/items/other/foods/choco/choco2"
+            ]
+        },
+        "choco3": {
+            "textures": [
+                "textures/items/other/foods/choco/choco3"
+            ]
         }
     }
 }
