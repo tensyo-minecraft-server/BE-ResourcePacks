@@ -540,6 +540,14 @@
                 "icon": "normal_ammos",
                 "custom_model_data": 1
             }
+        ],
+        "minecraft:light_blue_wool": [
+            {
+                "name": "bacet",
+                "allow_offhand": true,
+                "icon": "bacet",
+                "custom_model_data": 1
+            }
         ]
     }
 }
