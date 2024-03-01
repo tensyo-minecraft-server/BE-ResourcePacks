@@ -399,6 +399,16 @@
             "textures": [
                 "textures/items/pve/bacet"
             ]
+        },
+        "grenade": {
+            "textures": [
+                "textures/items/weapons/grenade"
+            ]
+        },
+        "ikayaki": {
+            "textures": [
+                "textures/items/other/foods/ikayaki"
+            ]
         }
     }
 }

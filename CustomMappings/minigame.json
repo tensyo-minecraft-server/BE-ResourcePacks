@@ -515,6 +515,12 @@
                 "allow_offhand": true,
                 "icon": "takoyaki",
                 "custom_model_data": 1
+            },
+            {
+                "name": "ikayaki",
+                "allow_offhand": true,
+                "icon": "ikayaki",
+                "custom_model_data": 2
             }
         ],
         "minecraft:bread": [
@@ -547,6 +553,14 @@
                 "allow_offhand": true,
                 "icon": "bacet",
                 "custom_model_data": 1
+            }
+        ],
+        "minecraft:red_candle": [
+            {
+                "name": "grenade",
+                "allow_offhand": true,
+                "icon": "grenade",
+                "custom_model_data": 5
             }
         ]
     }
