@@ -409,6 +409,16 @@
             "textures": [
                 "textures/items/other/foods/ikayaki"
             ]
+        },
+        "exp_bottle2": {
+            "textures": [
+                "textures/items/other/exp_bottle2"
+            ]
+        },
+        "exp_bottle3": {
+            "textures": [
+                "textures/items/other/exp_bottle3"
+            ]
         }
     }
 }

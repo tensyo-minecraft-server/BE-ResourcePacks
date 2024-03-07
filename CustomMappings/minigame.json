@@ -284,15 +284,15 @@
         ],
         "minecraft:light_gray_dye": [
             {
-                "name": "exp_bottle",
+                "name": "exp_bottle2",
                 "allow_offhand": true,
-                "icon": "exp_bottle",
+                "icon": "exp_bottle2",
                 "custom_model_data": 1
             },
             {
-                "name": "exp_bottle",
+                "name": "exp_bottle3",
                 "allow_offhand": true,
-                "icon": "exp_bottle",
+                "icon": "exp_bottle3",
                 "custom_model_data": 4
             },
             {
