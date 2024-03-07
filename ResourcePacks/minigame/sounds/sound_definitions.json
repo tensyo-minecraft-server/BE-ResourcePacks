@@ -110,7 +110,7 @@
             "max_distance": null,
             "min_distance": null,
             "sounds": [
-                "sounds/bgm/event_bgm"
+                "sounds/bgm/event_bgmv2"
             ]
         }
     }
