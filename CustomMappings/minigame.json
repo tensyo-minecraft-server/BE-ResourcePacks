@@ -266,6 +266,30 @@
                 "allow_offhand": true,
                 "icon": "choco3",
                 "custom_model_data": 5
+            },
+            {
+                "name": "cake1",
+                "allow_offhand": true,
+                "icon": "cake1",
+                "custom_model_data": 6
+            },
+            {
+                "name": "candy1",
+                "allow_offhand": true,
+                "icon": "candy1",
+                "custom_model_data": 7
+            },
+            {
+                "name": "cake2",
+                "allow_offhand": true,
+                "icon": "cake2",
+                "custom_model_data": 8
+            },
+            {
+                "name": "dango1",
+                "allow_offhand": true,
+                "icon": "dango1",
+                "custom_model_data": 9
             }
         ],
         "minecraft:heart_of_the_sea": [

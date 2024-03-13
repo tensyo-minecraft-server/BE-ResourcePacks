@@ -419,6 +419,26 @@
             "textures": [
                 "textures/items/other/exp_bottle3"
             ]
+        },
+        "cake1": {
+            "textures": [
+                "textures/items/other/foods/cake/cake1"
+            ]
+        },
+        "candy1": {
+            "textures": [
+                "textures/items/other/foods/cake/candy"
+            ]
+        },
+        "cake2": {
+            "textures": [
+                "textures/items/other/foods/cake/cake2"
+            ]
+        },
+        "dango1": {
+            "textures": [
+                "textures/items/other/foods/cake/dango1"
+            ]
         }
     }
 }
