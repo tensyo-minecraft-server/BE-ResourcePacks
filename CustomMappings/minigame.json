@@ -586,6 +586,14 @@
                 "icon": "grenade",
                 "custom_model_data": 5
             }
+        ],
+        "minecraft:golden_apple": [
+            {
+                "name": "potion1",
+                "allow_offhand": true,
+                "icon": "potion1",
+                "custom_model_data": 1
+            }
         ]
     }
 }

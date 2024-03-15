@@ -439,6 +439,11 @@
             "textures": [
                 "textures/items/other/foods/cake/dango1"
             ]
+        },
+        "potion1": {
+            "textures": [
+                "textures/items/other/foods/apple/potion"
+            ]
         }
     }
 }
