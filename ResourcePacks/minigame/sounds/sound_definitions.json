@@ -112,6 +112,14 @@
             "sounds": [
                 "sounds/bgm/event_bgmv2"
             ]
+        },
+        "custom.gatya-on": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/gatya-on"
+            ]
         }
     }
 }
