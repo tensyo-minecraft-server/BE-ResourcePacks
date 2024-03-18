@@ -73,6 +73,30 @@
                 "sounds/sound_effects/bonus"
             ]
         },
+        "custom.gacha1": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/gatya1"
+            ]
+        },
+        "custom.gacha2": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/gatya2"
+            ]
+        },
+        "custom.gatya-on": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/sound_effects/gatya-on"
+            ]
+        },
         "custom.error": {
             "category": "ambient",
             "max_distance": null,
@@ -111,14 +135,6 @@
             "min_distance": null,
             "sounds": [
                 "sounds/bgm/event_bgmv2"
-            ]
-        },
-        "custom.gatya-on": {
-            "category": "ambient",
-            "max_distance": null,
-            "min_distance": null,
-            "sounds": [
-                "sounds/sound_effects/gatya-on"
             ]
         }
     }

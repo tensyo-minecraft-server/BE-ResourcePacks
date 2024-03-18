@@ -444,6 +444,11 @@
             "textures": [
                 "textures/items/other/foods/apple/potion"
             ]
+        },
+        "fire_blade": {
+            "textures": [
+                "textures/items/weapons/sword/fire_blade"
+            ]
         }
     }
 }

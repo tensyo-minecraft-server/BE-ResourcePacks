@@ -25,6 +25,12 @@
                 "allow_offhand": true,
                 "icon": "darknite_sword",
                 "custom_model_data": 8
+            },
+            {
+                "name": "fire_blade",
+                "allow_offhand": true,
+                "icon": "fire_blade",
+                "custom_model_data": 9
             }
         ],
         "minecraft:netherite_pickaxe": [
