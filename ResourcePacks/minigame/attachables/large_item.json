@@ -1,0 +1,22 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "minecraft:netherite_sword",
+            "materials": {
+                "default": "entity_alphatest",
+                "enchanted": "entity_alphatest_glint"
+            },
+            "textures": {
+                "default": "textures/items/weapons/sword/fire_blade",
+                "enchanted": "textures/misc/enchanted_item_glint"
+            },
+            "geometry": {
+                "default": "geometry.large_item"
+            }
+        },
+        "render_controllers": [
+            "controller.render.large_item"
+        ]
+    }
+}
