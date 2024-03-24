@@ -13,10 +13,18 @@
             },
             "geometry": {
                 "default": "geometry.large_item"
-            }
-        },
-        "render_controllers": [
-            "controller.render.large_item"
-        ]
+            },
+            "animations": {
+                "hold": "animation.large_item.hold"
+            },
+            "scripts": {
+                "animate": [
+                    "hold"
+                ]
+            },
+            "render_controllers": [
+                "controller.render.large_item"
+            ]
+        }
     }
 }
