@@ -449,6 +449,56 @@
             "textures": [
                 "textures/items/weapons/sword/fire_blade"
             ]
+        },
+        "life_boost": {
+            "textures": [
+                "textures/items/other/life_boost"
+            ]
+        },
+        "shield": {
+            "textures": [
+                "textures/items/other/shield"
+            ]
+        },
+        "kara_ramen": {
+            "textures": [
+                "textures/items/other/foods/kara_ramen"
+            ]
+        },
+        "kousitu_tantou": {
+            "textures": [
+                "textures/items/weapons/sword/kousitu_tantou"
+            ]
+        },
+        "crystal_sword": {
+            "textures": [
+                "textures/items/weapons/sword/crystal_sword"
+            ]
+        },
+        "gyarakusia": {
+            "textures": [
+                "textures/items/weapons/sword/gyarakusia"
+            ]
+        },
+        "mitarasi": {
+            "textures": [
+                "textures/items/other/foods/mitarasi"
+            ]
+        },
+        "kusadango": {
+            "textures": [
+                "textures/items/other/foods/kusadango"
+            ]
+        },
+        "ankodango": {
+            "textures": [
+                "textures/items/other/foods/ankodango"
+            ]
+        },
+        "gatya-1": {
+            "textures": [
+                "textures/items/other/gatya-1"
+            ]
         }
     }
 }

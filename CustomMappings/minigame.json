@@ -31,6 +31,24 @@
                 "allow_offhand": true,
                 "icon": "fire_blade",
                 "custom_model_data": 9
+            },
+            {
+                "name": "kousitu_tantou",
+                "allow_offhand": true,
+                "icon": "kousitu_tantou",
+                "custom_model_data": 10
+            },
+            {
+                "name": "crystal_sword",
+                "allow_offhand": true,
+                "icon": "crystal_sword",
+                "custom_model_data": 11
+            },
+            {
+                "name": "gyarakusia",
+                "allow_offhand": true,
+                "icon": "gyarakusia",
+                "custom_model_data": 12
             }
         ],
         "minecraft:netherite_pickaxe": [
@@ -161,8 +179,7 @@
                 "allow_offhand": true,
                 "icon": "darknite",
                 "custom_model_data": 4
-            }
-            ,
+            },
             {
                 "name": "hard_ore",
                 "allow_offhand": true,
@@ -296,6 +313,24 @@
                 "allow_offhand": true,
                 "icon": "dango1",
                 "custom_model_data": 9
+            },
+            {
+                "name": "mitarasi",
+                "allow_offhand": true,
+                "icon": "mitarasi",
+                "custom_model_data": 10
+            },
+            {
+                "name": "kusadango",
+                "allow_offhand": true,
+                "icon": "kusadango",
+                "custom_model_data": 11
+            },
+            {
+                "name": "ankodango",
+                "allow_offhand": true,
+                "icon": "ankodango",
+                "custom_model_data": 12
             }
         ],
         "minecraft:heart_of_the_sea": [
@@ -490,8 +525,7 @@
                 "allow_offhand": true,
                 "icon": "smart_phone",
                 "custom_model_data": 2
-            }
-            ,
+            },
             {
                 "name": "ticket1",
                 "allow_offhand": true,
@@ -598,6 +632,34 @@
                 "name": "potion1",
                 "allow_offhand": true,
                 "icon": "potion1",
+                "custom_model_data": 1
+            }
+        ],
+        "minecraft:nautilus_shell": [
+            {
+                "name": "life_boost",
+                "allow_offhand": true,
+                "icon": "life_boost",
+                "custom_model_data": 8
+            },
+            {
+                "name": "shield",
+                "allow_offhand": true,
+                "icon": "shield",
+                "custom_model_data": 7
+            },
+            {
+                "name": "kara_ramen",
+                "allow_offhand": true,
+                "icon": "kara_ramen",
+                "custom_model_data": 6
+            }
+        ],
+        "minecraft:amethyst_shard": [
+            {
+                "name": "gatya-1",
+                "allow_offhand": true,
+                "icon": "gatya-1",
                 "custom_model_data": 1
             }
         ]
