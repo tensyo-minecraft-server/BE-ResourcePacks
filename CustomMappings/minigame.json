@@ -662,6 +662,44 @@
                 "icon": "gatya-1",
                 "custom_model_data": 1
             }
+        ],
+        "minecraft:white_dye": [
+            {
+                "name": "flask_red",
+                "allow_offhand": true,
+                "icon": "flask_red",
+                "custom_model_data": 1
+            },{
+                "name": "flask_blue",
+                "allow_offhand": true,
+                "icon": "flask_blue",
+                "custom_model_data": 2
+            },{
+                "name": "flask_green",
+                "allow_offhand": true,
+                "icon": "flask_green",
+                "custom_model_data": 3
+            },{
+                "name": "salt_pack",
+                "allow_offhand": true,
+                "icon": "fsalt_pack",
+                "custom_model_data": 4
+            },{
+                "name": "plastic",
+                "allow_offhand": true,
+                "icon": "plastic",
+                "custom_model_data": 5
+            },{
+                "name": "cup_empty",
+                "allow_offhand": true,
+                "icon": "cup_empty",
+                "custom_model_data": 6
+            },{
+                "name": "rice",
+                "allow_offhand": true,
+                "icon": "rice",
+                "custom_model_data": 8
+            }
         ]
     }
 }

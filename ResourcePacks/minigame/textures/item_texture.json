@@ -27,7 +27,6 @@
                 "textures/items/gemnite/tools/hoe"
             ]
         },
-
         "gemenite_sword": {
             "textures": [
                 "textures/items/gemenite/tools/sword"
@@ -53,7 +52,6 @@
                 "textures/items/gemenite/tools/hoe"
             ]
         },
-
         "jouenite_sword": {
             "textures": [
                 "textures/items/jouenite/tools/sword"
@@ -79,7 +77,6 @@
                 "textures/items/jouenite/tools/hoe"
             ]
         },
-
         "darknite_sword": {
             "textures": [
                 "textures/items/darknite/tools/sword"
@@ -498,6 +495,41 @@
         "gatya-1": {
             "textures": [
                 "textures/items/other/gatya-1"
+            ]
+        },
+        "flask_red": {
+            "textures": [
+                "textures/items/other/flask/red"
+            ]
+        },
+        "flask_blue": {
+            "textures": [
+                "textures/items/other/flask/blue"
+            ]
+        },
+        "flask_green": {
+            "textures": [
+                "textures/items/other/flask/green"
+            ]
+        },
+        "salt_pack": {
+            "textures": [
+                "textures/items/other/foodds/salt_pack"
+            ]
+        },
+        "plastic": {
+            "textures": [
+                "textures/items/other/plastic"
+            ]
+        },
+        "cup_empty": {
+            "textures": [
+                "textures/items/other/cup_empty"
+            ]
+        },
+        "rice": {
+            "textures": [
+                "textures/items/other/foods/rice"
             ]
         }
     }
