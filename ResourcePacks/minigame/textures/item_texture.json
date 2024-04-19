@@ -531,6 +531,11 @@
             "textures": [
                 "textures/items/other/foods/rice"
             ]
+        },
+        "anniversary": {
+            "textures": [
+                "textures/items/coin/anniversary/anniversary_coin"
+            ]
         }
     }
 }

@@ -25,6 +25,14 @@
                 "sounds/bgm/athletic3"
             ]
         },
+        "custom.anniversary": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/anniversary"
+            ]
+        },
         "custom.music_5": {
             "category": "ambient",
             "max_distance": null,

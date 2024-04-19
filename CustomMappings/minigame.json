@@ -345,6 +345,12 @@
                 "allow_offhand": true,
                 "icon": "kokoro",
                 "custom_model_data": 2
+            },
+            {
+                "name": "anniversary",
+                "allow_offhand": true,
+                "icon": "anniversary",
+                "custom_model_data": 3
             }
         ],
         "minecraft:light_gray_dye": [
