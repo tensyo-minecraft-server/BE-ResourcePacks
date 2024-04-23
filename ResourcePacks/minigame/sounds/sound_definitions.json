@@ -9,6 +9,14 @@
                 "sounds/bgm/athletic"
             ]
         },
+        "custom.lobby.bgm": {
+            "category": "ambient",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/bgm/lobby-bgm"
+            ]
+        },
         "custom.athletic.1": {
             "category": "ambient",
             "max_distance": null,
