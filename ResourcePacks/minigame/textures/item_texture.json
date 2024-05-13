@@ -536,6 +536,26 @@
             "textures": [
                 "textures/items/coin/anniversary/anniversary_coin"
             ]
+        },
+        "jera": {
+            "textures": [
+                "textures/items/ore/jera"
+            ]
+        },
+        "juda": {
+            "textures": [
+                "textures/items/ore/juda"
+            ]
+        },
+        "kora": {
+            "textures": [
+                "textures/items/other/drinks/kora"
+            ]
+        },
+        "cider": {
+            "textures": [
+                "textures/items/other/drinks/cider"
+            ]
         }
     }
 }
