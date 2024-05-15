@@ -337,11 +337,6 @@
                 "textures/items/other/foods/udon1"
             ]
         },
-        "takoyaki": {
-            "textures": [
-                "textures/items/other/foods/takoyaki"
-            ]
-        },
         "niku1": {
             "textures": [
                 "textures/items/other/foods/niku1"
@@ -397,16 +392,6 @@
                 "textures/items/pve/bacet"
             ]
         },
-        "grenade": {
-            "textures": [
-                "textures/items/weapons/grenade"
-            ]
-        },
-        "ikayaki": {
-            "textures": [
-                "textures/items/other/foods/ikayaki"
-            ]
-        },
         "exp_bottle2": {
             "textures": [
                 "textures/items/other/exp_bottle2"
@@ -417,24 +402,9 @@
                 "textures/items/other/exp_bottle3"
             ]
         },
-        "cake1": {
-            "textures": [
-                "textures/items/other/foods/cake/cake1"
-            ]
-        },
-        "candy1": {
-            "textures": [
-                "textures/items/other/foods/cake/candy"
-            ]
-        },
         "cake2": {
             "textures": [
                 "textures/items/other/foods/cake/cake2"
-            ]
-        },
-        "dango1": {
-            "textures": [
-                "textures/items/other/foods/cake/dango1"
             ]
         },
         "potion1": {
@@ -465,31 +435,6 @@
         "kousitu_tantou": {
             "textures": [
                 "textures/items/weapons/sword/kousitu_tantou"
-            ]
-        },
-        "crystal_sword": {
-            "textures": [
-                "textures/items/weapons/sword/crystal_sword"
-            ]
-        },
-        "gyarakusia": {
-            "textures": [
-                "textures/items/weapons/sword/gyarakusia"
-            ]
-        },
-        "mitarasi": {
-            "textures": [
-                "textures/items/other/foods/mitarasi"
-            ]
-        },
-        "kusadango": {
-            "textures": [
-                "textures/items/other/foods/kusadango"
-            ]
-        },
-        "ankodango": {
-            "textures": [
-                "textures/items/other/foods/ankodango"
             ]
         },
         "gatya-1": {
@@ -545,16 +490,6 @@
         "juda": {
             "textures": [
                 "textures/items/ore/juda"
-            ]
-        },
-        "kora": {
-            "textures": [
-                "textures/items/other/drinks/kora"
-            ]
-        },
-        "cider": {
-            "textures": [
-                "textures/items/other/drinks/cider"
             ]
         }
     }

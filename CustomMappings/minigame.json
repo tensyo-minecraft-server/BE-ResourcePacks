@@ -37,18 +37,6 @@
                 "allow_offhand": true,
                 "icon": "kousitu_tantou",
                 "custom_model_data": 10
-            },
-            {
-                "name": "crystal_sword",
-                "allow_offhand": true,
-                "icon": "crystal_sword",
-                "custom_model_data": 11
-            },
-            {
-                "name": "gyarakusia",
-                "allow_offhand": true,
-                "icon": "gyarakusia",
-                "custom_model_data": 12
             }
         ],
         "minecraft:netherite_pickaxe": [
@@ -303,46 +291,10 @@
                 "custom_model_data": 5
             },
             {
-                "name": "cake1",
-                "allow_offhand": true,
-                "icon": "cake1",
-                "custom_model_data": 6
-            },
-            {
-                "name": "candy1",
-                "allow_offhand": true,
-                "icon": "candy1",
-                "custom_model_data": 7
-            },
-            {
                 "name": "cake2",
                 "allow_offhand": true,
                 "icon": "cake2",
                 "custom_model_data": 8
-            },
-            {
-                "name": "dango1",
-                "allow_offhand": true,
-                "icon": "dango1",
-                "custom_model_data": 9
-            },
-            {
-                "name": "mitarasi",
-                "allow_offhand": true,
-                "icon": "mitarasi",
-                "custom_model_data": 10
-            },
-            {
-                "name": "kusadango",
-                "allow_offhand": true,
-                "icon": "kusadango",
-                "custom_model_data": 11
-            },
-            {
-                "name": "ankodango",
-                "allow_offhand": true,
-                "icon": "ankodango",
-                "custom_model_data": 12
             }
         ],
         "minecraft:heart_of_the_sea": [
@@ -521,18 +473,6 @@
                 "allow_offhand": true,
                 "icon": "kobin",
                 "custom_model_data": 1
-            },
-            {
-                "name": "kora",
-                "allow_offhand": true,
-                "icon": "kora",
-                "custom_model_data": 2
-            },
-            {
-                "name": "cider",
-                "allow_offhand": true,
-                "icon": "cider",
-                "custom_model_data": 3
             }
         ],
         "minecraft:iron_sword": [
@@ -603,20 +543,6 @@
                 "custom_model_data": 2
             }
         ],
-        "minecraft:golden_carrot": [
-            {
-                "name": "takoyaki",
-                "allow_offhand": true,
-                "icon": "takoyaki",
-                "custom_model_data": 1
-            },
-            {
-                "name": "ikayaki",
-                "allow_offhand": true,
-                "icon": "ikayaki",
-                "custom_model_data": 2
-            }
-        ],
         "minecraft:bread": [
             {
                 "name": "niku1",
@@ -647,14 +573,6 @@
                 "allow_offhand": true,
                 "icon": "bacet",
                 "custom_model_data": 1
-            }
-        ],
-        "minecraft:red_candle": [
-            {
-                "name": "grenade",
-                "allow_offhand": true,
-                "icon": "grenade",
-                "custom_model_data": 5
             }
         ],
         "minecraft:golden_apple": [
