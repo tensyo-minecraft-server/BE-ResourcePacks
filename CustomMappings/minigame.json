@@ -37,6 +37,12 @@
                 "allow_offhand": true,
                 "icon": "kousitu_tantou",
                 "custom_model_data": 10
+            },
+            {
+                "name": "crystal",
+                "allow_offhand": true,
+                "icon": "crystal",
+                "custom_model_data": 11
             }
         ],
         "minecraft:netherite_pickaxe": [
@@ -653,6 +659,14 @@
                 "allow_offhand": true,
                 "icon": "rice",
                 "custom_model_data": 8
+            }
+        ],
+        "minecraft:diamond_axe": [
+            {
+                "name": "crystal_axe",
+                "allow_offhand": false,
+                "icon": "crystal_axe",
+                "custom_model_data": 1
             }
         ]
     }

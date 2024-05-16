@@ -491,6 +491,16 @@
             "textures": [
                 "textures/items/ore/juda"
             ]
+        },
+        "crystal": {
+            "textures": [
+                "textures/items/ore/crystal"
+            ]
+        },
+        "crystal_axe": {
+            "textures": [
+                "textures/items/tool/axe"
+            ]
         }
     }
 }
